@@ -1,4 +1,4 @@
-<img src="images/White Blue Clean Minimalist Science Student Portfolio Presentation.jpg" alt="Profile picture">
+<img src="images/Blue and White Illustrated Data Science Presentation (1).png" alt="Profile picture">
 
 # 👋 Hello there,
 
