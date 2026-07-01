@@ -1,7 +1,7 @@
 # 👋 Hello there,
 
 I am a Software Developper Student seeking for internship.  
-I mainly develop web and management applications with **C#/.NET** and **Java/Springboot**. I have experienced **Python**, **C**, **C++** and I'm currently forming in **Blazor**. I am curious to learn new tools and languages. This GitHub is used to present my academic projects, my TFE, and my progress as a developer.
+I mainly develop web and management applications with **C#/.NET** and **Java/Springboot**. I have experienced **Python**, **C**, **C++** and I'm currently forming in **Blazor**. I am curious to learn new tools, languages and technologies. This GitHub is used to present my academic projects, my TFE, and my progress as a developer.
 
 ---
 
