@@ -41,7 +41,7 @@ In addition I have some professional experience with the family company where I 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
 
-### Outils
+### Tools
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
@@ -54,7 +54,7 @@ In addition I have some professional experience with the family company where I 
 
 ## 📌 Projects
 
-| Projet | Description | Technologies | Links |
+| Project | Description | Technologies | Links |
 |---|---|---|---|
 | **TFE – ChantierFleet** | Application de gestion développée dans le cadre de mon TFE. Le projet met l’accent sur l’analyse, la modélisation des données et une architecture claire. | C# / .NET / SQL | [Voir le projet](https://github.com/TON-PSEUDO/chantierfleet) |
 | **Gestion de salle de cinéma** | Application permettant de gérer des films, séances, réservations ou éléments liés à l’exploitation d’une salle de cinéma. | Java / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-cinema) |
