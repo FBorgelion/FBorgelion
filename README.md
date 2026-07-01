@@ -45,8 +45,6 @@ In addition I have some professional experience with the family company where I 
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
 ![Git](https://img.shields.io/badge/Git-Versioning-black)
 
