@@ -16,7 +16,7 @@ I mainly develop web and management applications with **C#/.NET** and **Java/Spr
 - simple and effective web interfaces;
 - clear and maintain architecture.
 
-🎓 I am a final year student at **EPHEC where I was led to carry several projects. 
+🎓 I am a final year student at **EPHEC** where I was led to carry several projects. 
 In addition I have some professional experience with the family company where I need to create custom solutions mainly in management and accountability software.
 
 ---
