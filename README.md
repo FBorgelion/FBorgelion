@@ -21,7 +21,7 @@ In addition I have some professional experience with the family company where I 
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies used
 
 ### Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
