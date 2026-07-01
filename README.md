@@ -1,3 +1,5 @@
+<img src="images/White Blue Clean Minimalist Science Student Portfolio Presentation.jpg" alt="Profile picture">
+
 # 👋 Hello there,
 
 I am a Software Developper Student seeking for internship.  
