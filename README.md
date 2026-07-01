@@ -22,8 +22,8 @@ In addition I have some professional experience with the family company where I 
 ## 🛠️ Technologies utilisées
 
 ### Langages & frameworks
-![C#](https://img.shields.io/badge/C%23-.NET-blue)
-![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
