@@ -5,7 +5,7 @@ I mainly develop web and management applications with **C#/.NET** and **Java/Spr
 
 ---
 
-##  <img src="Design sans titre.png" width="90" alt="Profile picture"> About me
+##  <img src="profilepict.png" width="90" alt="Profile picture"> About me
 
 💻 I am interested in all aspects of software development:  
 - needs analysis;
