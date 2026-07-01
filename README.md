@@ -1,6 +1,6 @@
 # 👋 Hello there,
 
-I'm a Software Developper Student seeking for internship.  
+I am a Software Developper Student seeking for internship.  
 I mainly develop web and management applications with **C#/.NET** and **Java/Springboot**. I have experienced **Python**, **C**, **C++** and I'm currently forming in **Blazor**. I am curious to learn new tools and languages. This GitHub is used to present my academic projects, my TFE, and my progress as a developer.
 
 ---
@@ -14,7 +14,7 @@ I mainly develop web and management applications with **C#/.NET** and **Java/Spr
 - simple and effective web interfaces;
 - clear and maintain architecture.
 
-🎓 I'm a final year student at **EPHEC where I was led to carry several projects. 
+🎓 I am a final year student at **EPHEC where I was led to carry several projects. 
 In addition I have some professional experience with the family company where I need to create custom solutions mainly in management and accountability software.
 
 ---
@@ -50,9 +50,9 @@ In addition I have some professional experience with the family company where I 
 
 ---
 
-## 📌 Projets mis en avant
+## 📌 Projects
 
-| Projet | Description | Technologies | Liens |
+| Projet | Description | Technologies | Links |
 |---|---|---|---|
 | **TFE – ChantierFleet** | Application de gestion développée dans le cadre de mon TFE. Le projet met l’accent sur l’analyse, la modélisation des données et une architecture claire. | C# / .NET / SQL | [Voir le projet](https://github.com/TON-PSEUDO/chantierfleet) |
 | **Gestion de salle de cinéma** | Application permettant de gérer des films, séances, réservations ou éléments liés à l’exploitation d’une salle de cinéma. | Java / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-cinema) |
