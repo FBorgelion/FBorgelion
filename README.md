@@ -22,7 +22,7 @@ In addition I have some professional experience with the family company where I 
 ## 🛠️ Technologies utilisées
 
 ### Langages & frameworks
-![C#](https
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
