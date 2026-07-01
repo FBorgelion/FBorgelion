@@ -5,7 +5,7 @@ I mainly develop web and management applications with **C#/.NET** and **Java/Spr
 
 ---
 
-## 🧑‍💻 About me
+##  <img src="images/ChatGPT Image 21 mai 2026, 10_42_55.png" width="90" alt="Profile picture"> About me
 
 💻 I am interested in all aspects of software development:  
 - needs analysis;
