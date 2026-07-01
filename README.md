@@ -23,6 +23,8 @@ In addition I have some professional experience with the family company where I 
 
 ### Langages & frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -34,7 +36,6 @@ In addition I have some professional experience with the family company where I 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 ![Eclipse](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
-![Windows](https://img.shields.io/badge/Windows-PowerShell-blue)
 
 ---
 
