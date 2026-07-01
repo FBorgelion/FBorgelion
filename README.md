@@ -1,21 +1,21 @@
-# 👋 Bonjour, je suis [Prénom Nom]
+# 👋 Hello there,
 
-🎓 Étudiant en informatique de gestion, orienté développement d’applications.  
-💻 Je développe principalement des applications web et de gestion avec **C#/.NET**, **Java/Spring Boot**, **PHP/Laravel**, ainsi que des bases de données relationnelles.  
-🚀 Ce GitHub me sert à présenter mes projets académiques, mon TFE et ma progression comme développeur.
+I'm a Software Developper Student seeking for internship.  
+I mainly develop web and management applications with **C#/.NET and **Java/Springboot. I have experienced **Python, **C, **C++ and I'm currently forming in **Blazor. I am curious to learn new tools and languages. This GitHub is used to present my academic projects, my TFE, and my progress as a developer.
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 About me
 
-Je m’intéresse particulièrement au développement d’applications de gestion :  
-- analyse des besoins ;
-- modélisation de bases de données ;
-- développement backend ;
-- interfaces web simples et efficaces ;
-- architecture claire et maintenable.
+💻 I am interested in all aspects of software development:  
+- needs analysis;
+- database modeling;
+- backend development;
+- simple and effective web interfaces;
+- clear and maintain architecture.
 
-Je cherche à renforcer mes compétences à travers des projets concrets, documentés et présentables dans un contexte professionnel.
+🎓 I'm a final year student at **EPHEC where I was led to carry several projects. 
+In addition I have some professional experience with the family company where I need to create custom solutions mainly in management and accountability software.
 
 ---
 
@@ -24,15 +24,16 @@ Je cherche à renforcer mes compétences à travers des projets concrets, docume
 ### Langages & frameworks
 ![C#](https://img.shields.io/badge/C%23-.NET-blue)
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange)
-![PHP](https://img.shields.io/badge/PHP-Laravel-red)
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-Versioning-black)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
+![Eclipse](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
-![Linux](https://img.shields.io/badge/Linux-Bash-yellow)
 ![Windows](https://img.shields.io/badge/Windows-PowerShell-blue)
 
 ---
