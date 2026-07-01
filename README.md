@@ -64,18 +64,6 @@ In addition I have some professional experience with the family company where I 
 
 ---
 
-## 📚 Ce que ces projets montrent
-
-Ces projets illustrent ma capacité à :
-
-- comprendre un besoin métier ;
-- concevoir une base de données cohérente ;
-- développer des fonctionnalités CRUD ;
-- structurer un projet de manière lisible ;
-- documenter mon travail ;
-- utiliser GitHub comme outil de versioning et de présentation professionnelle.
-
----
 
 ## 🎯 Objectif professionnel
 
@@ -83,8 +71,8 @@ Je souhaite évoluer comme développeur d’applications, avec une préférence 
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
-- LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
-- Email : ton.email@example.com
-- GitHub : [github.com/TON-PSEUDO](https://github.com/TON-PSEUDO)
+- LinkedIn : [Borgelion Florent](https://www.linkedin.com/in/florent-borgelion-2106b4368/)
+- Email : florent.borgelion@outlook.com
+- GitHub : [github.com/FBorgelion](https://github.com/FBorgelion)
