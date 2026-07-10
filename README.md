@@ -59,17 +59,11 @@ In addition I have some professional experience with the family company where I 
 | **VDRT_Fleet (In Progress)** | Management application developed as part of my Graduation Project. The project emphasizes data analysis, modeling and clear architecture. | C# / .NET / SQL | [See project](https://github.com/FBorgelion/VDRT_1.0) |
 | **Client/Server Art Marketplace** | Full-stack web application for managing an online art marketplace, built with an Angular frontend and an ASP.NET Core backend. | C# / .NET / SQL | [See project](https://github.com/FBorgelion/Server-Client-Art-App) |
 | **TCP-like protocol over UDP** | Client-server chat application implementing a custom TCP-like protocol on top of UDP. | Java | [See project](https://github.com/FBorgelion/NetworkProject2025) |
-| **Gestion de livres en ligne** | Application de gestion de livres avec logique CRUD, recherche et organisation des données. | PHP / Laravel / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-livres) |
-| **Projet Odoo – Parc animalier & vente informatique** | Projet académique autour d’Odoo, combinant gestion d’un parc animalier et vente de matériel informatique. | Odoo / Python / ERP | [Voir le projet](https://github.com/TON-PSEUDO/projet-odoo) |
+| **CampusFlow** | CampusFlow is a university scheduling and resource management application. It includes a front office for end users, a back office for administrators and a SQL Server database to store information.. | C# / .NET / SQL | [See project](https://github.com/FBorgelion/ProjetSGBD2024) |
+
 
 ---
 
-
-## 🎯 Objectif professionnel
-
-Je souhaite évoluer comme développeur d’applications, avec une préférence pour les projets de gestion, les applications web et les solutions orientées entreprise.
-
----
 
 ## 📫 Contact
 
