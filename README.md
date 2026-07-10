@@ -56,9 +56,9 @@ In addition I have some professional experience with the family company where I 
 
 | Project | Description | Technologies | Links |
 |---|---|---|---|
-| **TFE – ChantierFleet** | Application de gestion développée dans le cadre de mon TFE. Le projet met l’accent sur l’analyse, la modélisation des données et une architecture claire. | C# / .NET / SQL | [Voir le projet](https://github.com/TON-PSEUDO/chantierfleet) |
-| **Gestion de salle de cinéma** | Application permettant de gérer des films, séances, réservations ou éléments liés à l’exploitation d’une salle de cinéma. | Java / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-cinema) |
-| **Gestion de locations immobilières** | Projet de gestion de maisons et appartements : biens, locataires, contrats ou disponibilités. | C# / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-locations) |
+| **VDRT_Fleet (In Progress)** | Management application developed as part of my Graduation Project. The project emphasizes data analysis, modeling and clear architecture. | C# / .NET / SQL | [See project](https://github.com/FBorgelion/VDRT_1.0) |
+| **Client/Server Art Marketplace** | Full-stack web application for managing an online art marketplace, built with an Angular frontend and an ASP.NET Core backend. | C# / .NET / SQL | [See project](https://github.com/FBorgelion/Server-Client-Art-App) |
+| **TCP-like protocol over UDP** | Client-server chat application implementing a custom TCP-like protocol on top of UDP. | Java | [See project](https://github.com/FBorgelion/NetworkProject2025) |
 | **Gestion de livres en ligne** | Application de gestion de livres avec logique CRUD, recherche et organisation des données. | PHP / Laravel / SQL | [Voir le projet](https://github.com/TON-PSEUDO/gestion-livres) |
 | **Projet Odoo – Parc animalier & vente informatique** | Projet académique autour d’Odoo, combinant gestion d’un parc animalier et vente de matériel informatique. | Odoo / Python / ERP | [Voir le projet](https://github.com/TON-PSEUDO/projet-odoo) |
 
