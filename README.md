@@ -3,7 +3,7 @@
 # 👋 Hello there
 
 I am a Software Developper Student seeking for internship.  
-I mainly develop web and management applications with **C#/.NET** and **Java/Springboot**. I have experienced **Python**, **C**, **C++** and I'm currently forming in **Blazor**. I am curious to learn new tools, languages and technologies. This GitHub is used to present my academic projects, my TFE, and my progress as a developer.
+I mainly develop web and management applications with **C#/.NET** and **Java/Springboot**. I have experienced **Python**, **C**, **C++** and I'm currently learning **Blazor**. I am always eager to learn new tools, languages and technologies. This GitHub's purpose is to present my academic projects, my graduation project, and my progress as a developer.
 
 ---
 
@@ -14,10 +14,10 @@ I mainly develop web and management applications with **C#/.NET** and **Java/Spr
 - database modeling;
 - backend development;
 - simple and effective web interfaces;
-- clear and maintain architecture.
+- clearing and maintaining architecture.
 
 🎓 I am a final year student at **EPHEC** where I was led to carry several projects. 
-In addition I have some professional experience with the family company where I need to create custom solutions mainly in management and accountability software.
+In addition to that, I have some professional experience with my family's company where I often help to create custom solutions mainly in management and accountability software.
 
 ---
 
